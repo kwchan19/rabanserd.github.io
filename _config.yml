@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: "RabanserD's Blog"
+email: daniel@rabanser.tech
+description: "no description yet"
+baseurl: ""
+url: "https://www.rabanser.tech"
+twitter_username: RabanserD
+github_username:  RabanserD
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
