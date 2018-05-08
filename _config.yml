@@ -5,6 +5,7 @@ baseurl: ""
 url: "https://www.rabanser.tech"
 twitter_username: RabanserD
 github_username:  RabanserD
+disqus: RabanserD
 
 # Build settings
 markdown: kramdown
