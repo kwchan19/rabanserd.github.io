@@ -5,6 +5,7 @@ baseurl: ""
 url: "https://www.rabanser.tech"
 github_username:  RabanserD
 linkedin_username: RabanserD
+google_analytics: UA-118970389-1
 disqus: 
   shortname: www-rabanser-tech
 
