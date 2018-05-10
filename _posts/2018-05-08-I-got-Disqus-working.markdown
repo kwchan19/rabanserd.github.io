@@ -6,4 +6,4 @@ categories: stuff
 author: "Daniel Rabanser"
 comments: true
 ---
-I got Disqus working. Wait what?
+I got Disqus working. Wait what? That means you [the potato audience] can now comment on stuff....
