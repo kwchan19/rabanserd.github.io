@@ -12,11 +12,10 @@ layout: default
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+        • <a href="{{site.github.repository_url}}/tree/master/{{page.path}}">Edit this page</a>
+      </p>
   </header>
-  <div align="right">
-    <a href="{{site.github.repository_url}}/tree/master/{{page.path}}">Edit this page</a>
-  </div>
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
