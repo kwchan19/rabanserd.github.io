@@ -8,6 +8,8 @@ linkedin_username: RabanserD
 google_analytics: UA-118970389-1
 disqus: 
   shortname: www-rabanser-tech
+show_excerpts: true
+excerpt_separator: "<!--excerpt-->"
 
 # Build settings
 markdown: kramdown
