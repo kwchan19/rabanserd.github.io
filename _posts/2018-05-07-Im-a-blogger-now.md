@@ -6,4 +6,7 @@ categories: stuff
 author: "Daniel Rabanser "
 comments: true
 ---
-Apperently I'm a blogger now. How did that happen you might ask, well I just wanted to try out GitHub pages a bit and here we are now.
+Apperently I'm a blogger now. How did that happen you might ask, well I just wanted to try out GitHub pages a bit and here we are now.<!--excerpt-->
+> So what can you expect on this Blog?
+
+Well to be hones probably nothing at all. I might post IT related stuff here at some point...
