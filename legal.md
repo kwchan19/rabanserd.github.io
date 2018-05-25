@@ -256,6 +256,10 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
+<br><br>
+
+Latest update: May 25, 2018
+
 [1]: https://www.google.com/intl/en/policies/privacy/
 [2]: https://tools.google.com/dlpage/gaoptout?hl=en
 [3]: https://help.disqus.com/customer/portal/articles/466259-privacy-policy
