@@ -4,7 +4,7 @@ title: Legal
 permalink: /legal/
 ---
 
-# Privacy Policy of www.rabanser.tech
+# Temporary Privacy Policy of www.rabanser.tech
 
 <br>
 
