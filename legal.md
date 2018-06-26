@@ -25,6 +25,11 @@ Daniel Rabanser
 
 None. We don't store any data. We can't, this is just a Blog hosted on GitHub Pages. We use 3rd party services such as Google Analytics and Disqus though, if you want to know what THEY collect, read below.
 
+<br>
+
+* * *
+
+<br>
 
 ## Detailed information on the processing of Personal Data of 3rd parties
 
@@ -65,7 +70,6 @@ Place of processing: United States – [Privacy Policy][3] – [Opt out][4].
 
 <br>
 
-<br><br>
 
 Latest update: June 25, 2018
 
