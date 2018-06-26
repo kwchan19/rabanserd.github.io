@@ -5,9 +5,6 @@ permalink: /legal/
 ---
 
 # Privacy Policy of www.rabanser.tech
-
-<br>
-
 * * *
 
 <br>
