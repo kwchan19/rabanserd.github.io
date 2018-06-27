@@ -28,7 +28,7 @@ None. We don't store any data. We can't, this is just a Blog hosted on GitHub Pa
 
 <br>
 
-## Detailed information on the processing of Personal Data of 3rd parties
+## Detailed information on the processing of Personal Data collected by 3rd party services
 
 Personal Data is collected for the following purposes and using the following services:
 
