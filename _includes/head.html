@@ -26,4 +26,7 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   {% include cookieconsent.html %}
+  {% if site.tags != "" %}
+    {% include gettags.html %}
+  {% endif %}
 </head>
