@@ -2,7 +2,7 @@
 layout: post
 title:  "I'm a blogger now?"
 date:   2018-05-07 21:08:15 +0200
-categories: stuff
+tags: stuff
 author: "Daniel Rabanser "
 comments: true
 ---
