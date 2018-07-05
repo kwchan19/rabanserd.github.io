@@ -9,7 +9,7 @@ comments: true
 My first technical post, who would have thought I actually post here something, yeah me neither. So, if you are interested in how to install CentOS 7 read ahead.<!--excerpt-->
 
 
-In this post you will learn how to install CentOS 7 and.
+In this post you will learn how to install CentOS 7 and do some basic system setup.
 
 <br>
 
