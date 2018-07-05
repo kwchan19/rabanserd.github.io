@@ -6,11 +6,8 @@ tags: linux
 author: "Daniel Rabanser "
 comments: true
 ---
-My first technical post, who would have thought I actually post here something, yeah me neither. So, if you are interested in setting up auto-updates for Linux (CentOS 7 / RHEL 7) with yum-cron read ahead.<!--excerpt-->  
-
-<br>
-
 In this post you will learn how to enable automatic system updates for your CentOS 7 / RHEL 7 system.
+<!--excerpt-->  
 
 <br>
 
@@ -38,7 +35,6 @@ This will enable daily updates
 apply_updates = yes                  
 ```
 
-<br>
 
 This will enable hourly security updates
 ```
