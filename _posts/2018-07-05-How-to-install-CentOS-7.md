@@ -9,24 +9,24 @@ comments: true
 My first technical post, who would have thought I actually post here something, yeah me neither. So, if you are interested in how to install CentOS 7 read ahead.<!--excerpt-->
 
 
-In this post you will learn how to install CentOS 7 and.
+In this post you will learn how to install CentOS 7 and do some basic system setup.
 
 <br>
 
 ### Start the installation
 Test the media and install
 ![Install CentOS 7 - Test media and install](/assets/2018-07-05-how-to-install-centos-7/1_InstallCentOS7TestMediaAndInstall.png)
-Set your preffered language
+Set your preferred language
 ![Install CentOS 7 - Set language](/assets/2018-07-05-how-to-install-centos-7/2_InstallCentOS7SetLanguage.png)
 Set your time zone
 ![Install CentOS 7 - Set time zone](/assets/2018-07-05-how-to-install-centos-7/3_InstallCentOS7SetTimeZone.png)
-Set your preffered keyboard layout
+Set your preferred keyboard layout
 ![Install CentOS 7 - Set keyboard layout](/assets/2018-07-05-how-to-install-centos-7/4_InstallCentOS7SetKeyboardLayout.png)
 Configure you disk, I prefer the manual way since all my Linux Server are webservers
 ![Install CentOS 7 - Configure partitioning](/assets/2018-07-05-how-to-install-centos-7/5_InstallCentOS7ConfigurePartitioning1.png)
 Create the basic partitioning
 ![Install CentOS 7 - Configure partitioning](/assets/2018-07-05-how-to-install-centos-7/6_InstallCentOS7ConfigurePartitioning2.png)
-If you wish to leve it to the defaults, proceed without making any further changes
+If you wish to leave it to the defaults, proceed without making any further changes
 ![Install CentOS 7 - Apply default partitioning](/assets/2018-07-05-how-to-install-centos-7/7_InstallCentOS7ApplyDefaultPartitioning.png)
 If you want to set up dedicated partitions for /home and /var
 ![Install CentOS 7 - Apply custom partitioning](/assets/2018-07-05-how-to-install-centos-7/8_InstallCentOS7ApplyCustomPartitioning.png)
@@ -53,7 +53,7 @@ Proceed with a very basic system setup/configuration
 <br>
 
 ### Update your system
-First thing you want to do is to update your system
+First thing you want to do is update your system
 ```
 [root@centos ~]# yum update
 ```
