@@ -16,6 +16,8 @@ markdown: kramdown
 theme: minima
 minima:
   date_format: "%Y-%m-%d %H:%M"
+paginate: 3
+paginate_path: "/page-:num/"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
