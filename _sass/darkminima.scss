@@ -17,7 +17,7 @@ $spacing-unit:     30px !default;
 //For dark theme
 $text-color: #ccc; /* an off-white for the text */
 $background-color: #1a1a1a; /* a dark, off-black for the bg */
-$brand-color:      #00a4f3;
+$brand-color:      #0078d7;
 
 $grey-color:       #828282 !default;
 //$grey-color-light: lighten($grey-color, 40%) !default;
@@ -56,5 +56,6 @@ $on-laptop:        1000px !default;
   "darkminima/base",
   "darkminima/layout",
   "darkminima/syntax-highlighting",
-  "darkcustom/paginate"
+  "darkcustom/paginate",
+  "darkcustom/edit"
 ;
