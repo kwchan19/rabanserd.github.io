@@ -1,0 +1,14 @@
+//Used for edit button
+.edit {
+color: $grey-color;
+text-decoration: none;
+  
+ &:visited {
+ color: $grey-color;
+ }
+
+ &:hover {
+ color: #00a4f3;
+ text-decoration: underline;
+ }
+}
