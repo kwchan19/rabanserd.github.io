@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I'm just an IT guy.
+Hi,
+I'm Daniel and this is my tech Blog, there's not much to see here. I might post stuff here occasionally so that I can find it later when I need it...  
+
+I hold a few certifications, so this might be a good place to showcase them:
 
 |Certification| Link |
 |--|--|

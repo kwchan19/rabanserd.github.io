@@ -35,10 +35,10 @@ Personal Data is collected for the following purposes and using the following se
 
 ### Google Analytics (Google Inc.)
 
-Google Analytics enables the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+Google Analytics enables the owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.  
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services.  
+Google may use the data collected to contextualize and personalize the ads of its own advertising network.
 
 Personal Data collected: Cookies and Usage Data. 
 
@@ -56,7 +56,7 @@ Disqus may still collect web traffic data for the pages where the comment servic
 
 Disqus is a content commenting service provided by Big Heads Labs Inc.
 
-Personal Data collected: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service. 
+Personal data collected: Cookies, Usage Data and various types of data as specified in the privacy policy of the service. 
 
 Place of processing: United States – [Privacy Policy][3] – [Opt out][4]. 
 
@@ -67,7 +67,7 @@ Place of processing: United States – [Privacy Policy][3] – [Opt out][4].
 <br>
 
 
-Latest update: July 31, 2018
+Latest update: August 3, 2018
 
 [1]: https://www.google.com/intl/en/policies/privacy/
 [2]: https://tools.google.com/dlpage/gaoptout?hl=en
