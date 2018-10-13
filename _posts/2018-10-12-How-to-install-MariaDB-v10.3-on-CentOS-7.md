@@ -76,7 +76,7 @@ Reload privilege tables now? [Y/n] Y
 That's it, that's all you need to do to get MariaDB up and running. 
 You can verify the installed version of MariaDB by typing:
 ```
-root@centos ~]# mysql -V
+[root@centos ~]# mysql -V
 ```
 
 <br>
