@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to serve websites with Apache on CentOS 7"
-date:   2018-10-13 12:00:00 +0200
+date:   2018-10-13 14:30:00 +0100
 tags: linux web apache
 author: "Daniel Rabanser "
 comments: true
