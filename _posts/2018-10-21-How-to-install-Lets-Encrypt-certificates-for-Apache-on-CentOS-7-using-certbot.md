@@ -28,7 +28,7 @@ In order to install the certbot client on CentOS 7 you'll need to have the EPEL 
 <br>
 
 ### Install certbot
-Navigate to certbot's [configurator](https://certbot.eff.org/lets-encrypt) to select your distro. I'm using Apache on CentOS 7.  
+Navigate to certbot's [configurator](https://certbot.eff.org/) to select your distro. I'm using Apache on CentOS 7.  
 This command below will install the certbot client and it's needed dependencies.
 ```
 [root@centos ~]# yum install python2-certbot-apache
