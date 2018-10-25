@@ -1,0 +1,5 @@
+{
+    "ignoredFiles": [
+        "/assets/certs/*", // ignore by folderpath
+    ]
+}
