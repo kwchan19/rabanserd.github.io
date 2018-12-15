@@ -58,7 +58,7 @@ Disqus is a content commenting service provided by Big Heads Labs Inc.
 
 Personal data collected: Cookies, Usage Data and various types of data as specified in the privacy policy of the service. 
 
-Place of processing: United States – [Privacy Policy][3] – [Opt out][4]. 
+Place of processing: United States – [Privacy Policy][3] – [Opt out][4]. Privacy Shield participant. 
 
 <br>
 
