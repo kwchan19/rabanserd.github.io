@@ -2,3 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 .DS_Store
+rafts/assets/minima-social-icons.svg
+rafts/assets/main.css
