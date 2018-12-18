@@ -1,5 +1,22 @@
 {
     "ignoredFiles": [
-        "/assets/certs/*", // ignore by folderpath
+        "/assets/certs/*",
+        "assets/certs/*",
+        "/rafts/assets/certs/*",
+        "rafts/assets/certs/*",
+        "favicon-256x256.png",
+        "android-icon-192x192.png",
+        "ms-icon-310x310.png",
+        "apple-icon-152x152.png",
+        "apple-icon-180x180.png",
+        "apple-icon-144x144.png",
+        "ms-icon-144x144.png",
+        "apple-icon-120x120.png",
+        "ms-icon-150x150.png",
+        "favicon-96x96.png",
+        "apple-icon-72x72.png",
+        "apple-icon-114x114.png",
+        "apple-icon-76x76.png",
+        "404.jpg"
     ]
 }
