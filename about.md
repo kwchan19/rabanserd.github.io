@@ -11,6 +11,7 @@ I hold a few certifications, so this might be a good place to showcase them:
 
 |Certification| Link |
 |--|--|
+| Microsoft 365 Certified: <br> Enterprise Administrator Expert | <a href="https://www.youracclaim.com/badges/c8269556-dc27-4e9b-a237-78b6de666291/public_url" target="_blank"><img src="/assets/certs/microsoft365-enterprise-adminstrator-expert.png" alt="drawing" style="width: 175px;"/></a> |
 | Microsoft Certified Solutions Expert (MCSE): <br> Cloud Platform and Infrastructure — Certified 2018 | <a href="https://www.youracclaim.com/badges/6b464c61-8661-4c5f-a53e-ebbd326030d1/public_url" target="_blank"><img src="/assets/certs/mcse-cloud-platform-and-infrastructure-certified-2018.png" alt="drawing" style="width: 175px;"/></a> |
 | Microsoft Certified Solutions Associate (MCSA): <br> Office 365 | <a href="https://www.youracclaim.com/badges/dfce26d6-578e-42a1-ad57-cfb12e82e756/public_url" target="_blank"><img src="/assets/certs/mcsa-office-365-certified-2018.png" alt="drawing" style="width: 175px;"/></a> |
 | Microsoft Certified Solutions Associate (MCSA): <br> Windows Server 2016 | <a href="https://www.youracclaim.com/badges/c0afbe5b-23e6-494a-a431-88556961737d/public_url" target="_blank"><img src="/assets/certs/mcsa-windows-server-2016-certified-2018.png" alt="drawing" style="width: 175px;"/></a> |
