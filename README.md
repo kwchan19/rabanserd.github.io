@@ -25,4 +25,4 @@
 
 ![image](https://user-images.githubusercontent.com/37305130/54080262-db787b80-42b9-11e9-8d87-30c269d49f03.png)
 
-6. Select 'Compare across forks,' and create the pull request
+6. Select 'Compare across forks,' and Create the pull request
